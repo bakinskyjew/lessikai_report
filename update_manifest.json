@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "latest_build": 192,
-  "latest_version": "1.9.2 Release GitHubLuacUpdate",
+  "latest_build": 193,
+  "latest_version": "1.9.3 Release GitHubUpdateFix",
   "file_name": "lessikai_report.luac",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "download_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "Автообновление настроено под GitHub bakinskyjew/lessikai_report и скачивает скомпилированный lessikai_report.luac. Проверка обновлений находится во вкладке Настройки."
+  "changelog": "Исправлена проверка версии: скрипт больше не обновляется сам на себя. Исправлены кракозябры в changelog из GitHub. Автопроверка при старте отключена, проверка только во вкладке Настройки."
 }
