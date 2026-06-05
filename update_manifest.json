@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "latest_build": 192,
+  "latest_version": "1.9.2 Release GitHubLuacUpdate",
+  "file_name": "lessikai_report.luac",
+  "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
+  "download_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
+  "min_size": 10000,
+  "force": false,
+  "changelog": "Автообновление настроено под GitHub bakinskyjew/lessikai_report и скачивает скомпилированный lessikai_report.luac. Проверка обновлений находится во вкладке Настройки."
+}
