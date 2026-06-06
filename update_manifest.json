@@ -1,9 +1,10 @@
 {
   "enabled": true,
-  "latest_build": 194,
-  "latest_version": "1.9.4 Release WhitelistFastFix",
+  "latest_build": 195,
+  "latest_version": "1.9.5 Release CloudflareTunnel",
+  "file_name": "lessikai_report.luac",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "Переработан whitelist: быстрая проверка по нику без зависания на названии сервера/админ-фразе, ручная перепроверка без фриза."
+  "changelog": "Перевод backend на Cloudflare Tunnel. прямой IP оставлен запасным fallback. Улучшена стабильность whitelist и AI для админов."
 }
