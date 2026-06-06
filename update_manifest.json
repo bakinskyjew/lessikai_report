@@ -1,11 +1,9 @@
 {
   "enabled": true,
-  "latest_build": 193,
-  "latest_version": "1.9.3 Release GitHubUpdateFix",
-  "file_name": "lessikai_report.luac",
+  "latest_build": 194,
+  "latest_version": "1.9.4 Release WhitelistFastFix",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
-  "download_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "Исправлена проверка версии: скрипт больше не обновляется сам на себя. Исправлены кракозябры в changelog из GitHub. Автопроверка при старте отключена, проверка только во вкладке Настройки."
+  "changelog": "Переработан whitelist: быстрая проверка по нику без зависания на названии сервера/админ-фразе, ручная перепроверка без фриза."
 }
