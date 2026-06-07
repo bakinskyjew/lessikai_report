@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "latest_build": 195,
-  "latest_version": "1.9.5 Release CloudflareTunnel",
+  "latest_build": 196,
+  "latest_version": "1.9.6 Release AiFpsFix",
   "file_name": "lessikai_report.luac",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "Перевод backend на Cloudflare Tunnel. прямой IP оставлен запасным fallback. Улучшена стабильность whitelist и AI для админов."
+  "changelog": "Оптимизация генерации ИИ-ответов: уменьшена нагрузка на клиент при ожидании backend-а, снижена частота сетевых проверок, во время AI-запроса рендерится меньше тяжёлых элементов. Кнопки Sp автор, Sp репорт, ТП к игроку, ТП к себе и SP теперь закрывают меню после нажатия. В списке репортов слева ники теперь отображаются с ID: Nick_Name[ID]."
 }
