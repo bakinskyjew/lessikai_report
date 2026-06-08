@@ -1,10 +1,9 @@
 {
   "enabled": true,
-  "latest_build": 196,
-  "latest_version": "1.9.6 Release AiFpsFix",
-  "file_name": "lessikai_report.luac",
+  "latest_build": 201,
+  "latest_version": "1.9.11 Release CrashFix SafeRollback",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "Оптимизация генерации ИИ-ответов: уменьшена нагрузка на клиент при ожидании backend-а, снижена частота сетевых проверок, во время AI-запроса рендерится меньше тяжёлых элементов. Кнопки Sp автор, Sp репорт, ТП к игроку, ТП к себе и SP теперь закрывают меню после нажатия. В списке репортов слева ники теперь отображаются с ID: Nick_Name[ID]."
+  "changelog": "CrashFix: откат нормального интерфейса, отключена авто-проверка обновлений на старте, убран риск краша от полного скана игроков и spinner при пустом списке."
 }
