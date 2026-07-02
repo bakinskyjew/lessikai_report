@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "latest_build": 201,
-  "latest_version": "1.9.11 Release CrashFix SafeRollback",
+  "latest_build": 304,
+  "latest_version": "2.0.4 AutoReply CleanUI",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "CrashFix: откат нормального интерфейса, отключена авто-проверка обновлений на старте, убран риск краша от полного скана игроков и spinner при пустом списке."
+  "changelog": "ИИшки больше нет, добавлен автоответчик, смена цвета кнопок."
 }
