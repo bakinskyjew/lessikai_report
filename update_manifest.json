@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "latest_build": 304,
-  "latest_version": "2.0.4 AutoReply CleanUI",
+  "latest_build": 305,
+  "latest_version": "2.0.5 AntiGovNewsFix",
   "file_url": "https://raw.githubusercontent.com/bakinskyjew/lessikai_report/main/lessikai_report.luac",
   "min_size": 10000,
   "force": false,
-  "changelog": "ИИшки больше нет, добавлен автоответчик, смена цвета кнопок."
+  "changelog": "AntiGovNewsFix: автоответчик теперь реагирует только на реальные репорты с тегами [PC], [PC+], [S], [M]. Убран fallback Nick[ID]: text, который цеплял гос. новости и ответы админов."
 }
